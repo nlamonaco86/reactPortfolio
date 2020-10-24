@@ -14,4 +14,4 @@ https://nlamonaco86.github.io/reactPortfolio/
 Github Repo:
 https://github.com/nlamonaco86/reactPortfolio/
 
-![Portfolio Screenshot](assets/img/screenshot.png)
+![Portfolio Screenshot](public/assets/img/screenshot.png)
