@@ -9,7 +9,7 @@ function ToRenderEverything(){
     return (
         <Fragment>
             <nav className="navbar navbar-expand-lg fixed-top bg-dark" id="mainNav">
-                <div className="container"><a href='/' className="navbar-brand js-scroll-trigger">NICHOLAS LA MONACO</a>
+                <div className="container"><a href='https://nlamonaco86.github.io/reactPortfolio/#/' className="navbar-brand js-scroll-trigger">NICHOLAS LA MONACO</a>
                     <button className="navbar-toggler navbar-toggler-right font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu <i className="fas fa-bars"></i></button>
                     <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav ml-auto">
